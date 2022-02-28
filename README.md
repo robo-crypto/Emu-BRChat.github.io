@@ -1,2 +1,1 @@
-# Emu-BRChat.github.io
-My Web Site
+# http://Emu-BRChat.github.io
